@@ -1,12 +1,14 @@
 # MediCradle – AI-Powered Mobile Wellness Solution
 
 🏆 **Winner of Excellent Prize** at the 2023 LikeLion US Hackathon (Mountain View, CA)  
-- Sponsored by **Hyundai Motors**
+🚙 Sponsored by **Hyundai Motors**
+
 
 
 ## Overview
 
 MediCradle is a mobile, AI-powered wellness solution designed to improve access to healthcare in underserved U.S. regions. Built on Hyundai’s **Purpose Built Vehicle (PBV)** platform, the system enables users to access medical services anytime, anywhere — like calling an Uber for healthcare.
+
 
 
 ## Key Features
@@ -18,6 +20,7 @@ MediCradle is a mobile, AI-powered wellness solution designed to improve access 
 - 🚁 Long-term expansion vision via Urban Air Mobility (UAM)
 
 
+
 ## Research & Strategy
 
 - Researched existing AI healthcare platforms (Dr.Call, Cardiac DL, Hativ)
@@ -25,9 +28,11 @@ MediCradle is a mobile, AI-powered wellness solution designed to improve access 
 - Integrated UAM trends into scalable, future-facing design
 
 
+
 ## Files
 
 - `MediCradle.pdf`: Presentation deck (proposal, visuals, and roadmap)
+
 
 
 ## Team Members
@@ -37,6 +42,7 @@ MediCradle is a mobile, AI-powered wellness solution designed to improve access 
 - Seung Hyun Choi
 - Jun Hyuk Park
 - I Rae Nam
+
 
 
 ## Event Details
